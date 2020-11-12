@@ -1,0 +1,15 @@
+{
+  "name": "offlineBudgetTracker",
+  "short_name": "offlineBudgetTracker",
+  "icons": [
+   {
+     "src": "assets/icons/icon-192x192",
+     "sizes": "",
+     "type": "image/png"
+   } ,{
+    "src": "assets/icons/icon-512x512",
+    "sizes": "",
+    "type": "image/png"
+  }
+  ]
+}
